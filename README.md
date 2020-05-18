@@ -29,5 +29,5 @@ $> Rscript plot.R
 ```
 The script will show the following images in the misc folder:
 
-![alt tag](https://github.com/hdg7/QKDNetworks/raw/master/misc/contComponents.pdf)
-![alt tag](https://github.com/hdg7/QKDNetworks/raw/master/misc/persComponents.pdf)
+![alt tag](https://github.com/hdg7/QKDNetworks/raw/master/misc/contComponents.png)
+![alt tag](https://github.com/hdg7/QKDNetworks/raw/master/misc/persComponents.png)
