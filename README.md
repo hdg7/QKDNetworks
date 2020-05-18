@@ -1,5 +1,13 @@
 # QKDNetworks
-An algorithm to select repeaters for QKD Networks
+An algorithm to select repeaters for QKD Networks.
+
+This algorithm is published in the following journal:
+
+-- Under Review --
+
+Please, if you used this code, cite our paper.
+
+The code is licensed under GPLv3 license. Copyrighted to Hector D. Menendez.
 
 ## File list
 
